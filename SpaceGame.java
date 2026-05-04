@@ -286,7 +286,7 @@ public class SpaceGame extends JFrame implements KeyListener {
         timerLabel.setBounds(10, 100, 150, 30);
         gamePanel.add(timerLabel);
 
-        // Game level label
+        // ame level label
         levelLabel = new JLabel("Level: " + level);
         levelLabel.setForeground(Color.WHITE);
         levelLabel.setFont(new Font("Arial", Font.BOLD, 20));
